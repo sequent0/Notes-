@@ -14,3 +14,13 @@ a) Every atomic proposition is an $ℒ_{T_{p}}$ -wff.
 b) If $\phi$ and $\psi$ are $ℒ_{T_{p}}$ -wff , then so are ($\phi \land \psi$) , ($\phi \lor \psi$) , and ($\phi \to \psi$) .
 
 c) If $\phi$ is an $ℒ_{T_{p}}$ -wff, then so are $\lnot \phi$, $F\phi$ , $P\phi$ , $G\phi$ , $H\phi$ .
+
+
+Intuitively, we will read the new operators as follows:
+
+$F\phi$ "It will sometime be the case that $\phi$ "
+$P\phi$ "It was sometime the case that $\phi$ "
+$G\phi$ "It will always be the case that $\phi$ "
+$H\phi$ "It was always the case that $\phi$ "
+
+
