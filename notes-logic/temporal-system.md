@@ -1,7 +1,4 @@
-A tense temporal language 
-$$
-\mathcal{L}_{T_{p}}
-$$ 
+A tense temporal language $\mathcal{L}_{T_p}$ 
 consists in:
 
 
