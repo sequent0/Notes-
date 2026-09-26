@@ -38,7 +38,7 @@ b) V is a function from the atomic propositions and the possible worlds to the t
 
 The truth conditions of these tense operators are defined as follows:
 
-Let 𝔐 be a Kripke model as defined anteriorly. Then: 
+Let 𝔐 be a Kripke model as defined previously. Then: 
 
 𝔐 , w , $\models$ $P\phi$ iff there is w' such that w'Rw and 𝔐, w' $\models$ $\phi$
 
