@@ -19,8 +19,11 @@ c) If $\phi$ is an $ℒ_{T_{p}}$ -wff, then so are $\lnot \phi$, $F\phi$ , $P\ph
 Intuitively, we will read the new operators as follows:
 
 $F\phi$ "It will sometime be the case that $\phi$ "
+
 $P\phi$ "It was sometime the case that $\phi$ "
+
 $G\phi$ "It will always be the case that $\phi$ "
+
 $H\phi$ "It was always the case that $\phi$ "
 
 
