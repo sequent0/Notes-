@@ -27,6 +27,6 @@ $G\phi$ "It will always be the case that $\phi$ "
 $H\phi$ "It was always the case that $\phi$ "
 
 
-Analougously, F and P = $\lozenge$, and G and H = $\Box$ .
+Analougously, F and P = $\lozenge$, and G and H = $\Box$ , i.e., tense operators are a type of modal operator. More precisely, tense logic is a multi-modal system. The semantics of tense operators, like their modal counterparts, follow a semantics defined via Kripke frame.
 
 
