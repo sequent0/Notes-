@@ -10,3 +10,4 @@ Also, $ℒ_{T_{p}}$ = $ℒ_{P_{c}}$+ F , P , G , H , where $ℒ_{P_{c}}$ means a
 The set of wffs of $ℒ_{T_{p}}$ is recursively defined:
 
 a) Every atomic proposition is an $ℒ_{T_{p}}$ -wff.
+b) If $\varphi$ and $\psi$ are $ℒ_{T_{p}}$ -wff, then so are
