@@ -6,3 +6,7 @@ A tense temporal language $ℒ_{T_{p}}$ consists in:
 3. Punctuation ( , ).
 
 Also, $ℒ_{T_{p}}$ = $ℒ_{P_{c}}$+ F, P, G, H, where $ℒ_{P_{c}}$ means a classical propositional logic.
+
+The set of wffs of $ℒ_{T_{p}}$ is recursively defined:
+
+a) Every atomic proposition is an $ℒ_{T_{p}}$ -wff.
