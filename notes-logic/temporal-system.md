@@ -42,6 +42,7 @@ Let 𝔐 be a Kripke model as defined previously. Then:
 
 𝔐 , w , $\models$ $P\phi$ iff there is w' such that w'Rw and 𝔐, w' $\models$ $\phi$
 
+𝔐 , w , $\models$ $F\phi$ iff there is w' such that wRw' and 𝔐, w' $\models$ $\phi$
  
 
 
