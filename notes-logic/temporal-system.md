@@ -12,3 +12,5 @@ The set of wffs of $ℒ_{T_{p}}$ is recursively defined:
 a) Every atomic proposition is an $ℒ_{T_{p}}$ -wff.
 
 b) If $\phi$ and $\psi$ are $ℒ_{T_{p}}$ -wff , then so are ($\phi \land \psi$) , ($\phi \lor \psi$) , and ($\phi \to \psi$) .
+
+c) If $\phi$ is an $ℒ_{T_{p}} -wff, then so are $\lneg \phi$, F$\phi$ , P$\phi$ , G$\phi$ , H$\phi$ .
