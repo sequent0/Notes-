@@ -32,6 +32,7 @@ We can understand F and P as tense analogous of $\lozenge$ , and G , H , of $\Bo
 Definition (Kripke model). A Kripke model is pair 𝔐 = ⟨ 𝔉, V ⟩ where 
 
 a) 𝔉 = ⟨ W, V ⟩ is a Kripke frame, and
+
 b) V is a function from the atomic propositions and the possible worlds to the truth values T and F, i.e. , P being a set of atomic propositions, V: P × W $\to$ {T , F}.
 
 
