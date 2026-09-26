@@ -27,12 +27,12 @@ $G\phi$ "It will always be the case that $\phi$ "
 $H\phi$ "It was always the case that $\phi$ "
 
 
-We can understand F and P as tense analogous of $\lozenge$ , and G , H , of $\Box$ , i.e., tense operators are a type of modal operator. More precisely, tense logic is a multi-modal system. The semantics of tense operators, like their modal counterparts, follow a semantics defined via Kripke frame.
+We can understand F and P as tense analogous of $\lozenge$ , and G , H , of $\Box$ , i.e. , tense operators are a type of modal operator. More precisely, tense logic is a multi-modal system. The semantics of tense operators, like their modal counterparts, follow a semantics defined via Kripke frame.
 
-Definition (Kripke model). A Kripke model is pair 𝔐 = ⟨𝔉, V⟩ where 
+Definition (Kripke model). A Kripke model is pair 𝔐 = ⟨ 𝔉, V ⟩ where 
 
-a) 𝔉 = ⟨W, V⟩ is a Kripke frame, and
-b) V is a function from the atomic propositions and the possible worlds to the truth values T and F, i.e., P being a set of atomic propositions, V: P × W $\to$ {T , F}.
+a) 𝔉 = ⟨ W, V ⟩ is a Kripke frame, and
+b) V is a function from the atomic propositions and the possible worlds to the truth values T and F, i.e. , P being a set of atomic propositions, V: P × W $\to$ {T , F}.
 
 
 The truth conditions of these tense operators are defined as follows:
