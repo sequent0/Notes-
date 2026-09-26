@@ -40,7 +40,9 @@ The truth conditions of these tense operators are defined as follows:
 
 Let 𝔐 be a Kripke model as defined anteriorly. Then: 
 
-𝔐 , w , $\models$ $P\phi$
+𝔐 , w , $\models$ $P\phi$ iff there is w' such that w'Rw and 𝔐, w' $\models$ $\phi$
+
+ 
 
 
 
