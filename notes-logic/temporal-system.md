@@ -27,3 +27,6 @@ $G\phi$ "It will always be the case that $\phi$ "
 $H\phi$ "It was always the case that $\phi$ "
 
 
+Analougously, F and P = $\Diamond$, and G and H = $\Box$
+
+
