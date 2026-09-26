@@ -31,7 +31,7 @@ We can understand F and P as tense analogous of $\lozenge$ , and G , H , of $\Bo
 
 The truth conditions of these tense operators are defined as follows:
 
-Definition (Kripke model). A Kripke model is pair $mathfrak{M}$ = ⟨$mathfrak{F}$ , V⟩ 
+Definition (Kripke model). A Kripke model is pair $\mathfrak{M}$ = ⟨ $\mathfrak{F}$ , V⟩ 
 
 
 
