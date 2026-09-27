@@ -48,6 +48,10 @@ Let 𝔐 be a Kripke model as defined previously. Then:
 
 𝔐 , w , $models$ $G\phi$ iff for all w' such that wRw'and 𝔐, w' $\models$ $\phi$
 
+All of the Kripke models above are point-based. Point-based time-model has different properties such as:
+
+
+
 
 
 
