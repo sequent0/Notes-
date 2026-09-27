@@ -1,3 +1,6 @@
+---
+*Created: September 2026 | Status: Incomplete*
+
 A tense temporal language $ℒ_{T_{p}}$ consists in:
 
 
