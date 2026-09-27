@@ -51,8 +51,7 @@ Let 𝔐 be a Kripke model as defined previously. Then:
 
 𝔐 , $w$ , $\models$ $G\phi$ iff for all $w'$ such that $wRw'$ and 𝔐, $w'$ $\models$ $\phi$
 
-All of the Kripke models above are point-based. The point-based time-model has certain properties. These proprieties are:
-
+The point-based temporal models considered here are characterized by the following properties:
 
 $\forall x \in W$  $\quad$  $\lnot xRx$ is the property of irreflexivity. 
 
@@ -62,7 +61,7 @@ $\forall x \forall y \forall z \in W$ $\quad$ $xRy \land yRz \to xRz$ is the pro
 
 $\forall x \exists y \in W$ $\quad$ $xRy$ is the property of no last point.
 
-$\forall x \exists y \in W$ $\quad$ $yRx$ is the property of first point.
+$\forall x \exists y \in W$ $\quad$ $yRx$ is the property of no first point.
 
 $\forall x \forall y \exists z \in W$ $\quad$ $xRy \to xRz \land zRy$ is the property of density. 
 
@@ -70,7 +69,7 @@ $\forall x \forall y \forall z \in W$ $\quad$  $xRz \land yRz \to xRy \lor yRx \
 
 $\forall x \forall y \forall z \in W$ $\quad$ $zRx \land zRy \to xRy \lor yRx \lor x = y$ is the property of forwards linearity.
 
-Many of these properties are translatable into temporal formulas, such as transitivity, while others are not, such as irreflexivity.
+Some of these properties correspond to temporal formulas, such as transitivity, while others, such as irreflexivity, do not.
 
 The propositional temporal logic $K_{t}$ has the following axioms and inference rules:
  
@@ -88,8 +87,8 @@ Rule 1 (Modus Ponens). If $\vdash \phi$ and $\vdash \phi \to \psi$ then $\vdash 
 
 Rule 2 (Uniform Substitution). Replacing uniformly atoms $p_{1}$ , ... , $p_{n}$ by wffs $\phi_{1}$ , ... , $\phi_{n}$ in a theorem is also a theorem. 
 
-Rule 3 (RG). If $\phi \to G \phi$ .
+Rule 3 (RG). If $\phi \vdash G \phi$ .
 
-Rule 4 (RH). If $\phi \to H \phi$ .
+Rule 4 (RH). If $\phi \vdash H \phi$ .
 
-Axioms 1 and 2 are temporal analogues of the K axiom and RG and RH rules temporal analogous of the Rule of Necessitation.
+Axioms 2 and 3 are temporal analogues of the K axiom, while RG and RH are rules temporal analogous of the Rule of Necessitation.
