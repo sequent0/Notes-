@@ -1,5 +1,5 @@
 ---
-*Created: September 2026 | Status in September: Complete*
+*September 2026 | Status in September: Complete*
 
 A tense temporal language $ℒ_{T_{p}}$ consists in:
 
