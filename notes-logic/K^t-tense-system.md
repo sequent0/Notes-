@@ -87,8 +87,8 @@ Rule 1 (Modus Ponens). If $\vdash \phi$ and $\vdash \phi \to \psi$ then $\vdash 
 
 Rule 2 (Uniform Substitution). Replacing uniformly atoms $p_{1}$ , ... , $p_{n}$ by wffs $\phi_{1}$ , ... , $\phi_{n}$ in a theorem is also a theorem. 
 
-Rule 3 (RG). If $\phi then \vdash G \phi$ .
+Rule 3 (RG). If $\phi$ then $\vdash G \phi$ .
 
-Rule 4 (RH). If $\phi then \vdash H \phi$ .
+Rule 4 (RH). If $\phi$ then $\vdash H \phi$ .
 
 Axioms 2 and 3 are temporal analogues of the K axiom, while RG and RH are rules temporal analogous of the Rule of Necessitation.
