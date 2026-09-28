@@ -87,7 +87,7 @@ Rule 1 (Modus Ponens). If $\vdash \phi$ and $\vdash \phi \to \psi$ then $\vdash 
 
 Rule 2 (Uniform Substitution). Replacing uniformly atoms $p_{1}$ , ... , $p_{n}$ by wffs $\phi_{1}$ , ... , $\phi_{n}$ in a theorem is also a theorem. 
 
-Rule 3 (RG). If $\vdaah $\phi$ then $\vdash G \phi$ .
+Rule 3 (RG). If $\vdash $\phi$ then $\vdash G \phi$ .
 
 Rule 4 (RH). If $\vdash $\phi$ then $\vdash H \phi$ .
 
