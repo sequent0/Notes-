@@ -34,7 +34,7 @@ just as ◻ is the dual of ◇ in mono-modal logic, F and G are also the convers
 
 Definition (Kripke model). A Kripke model is a pair 𝔐 = ⟨ 𝔉, V ⟩ where 
 
-a) 𝔉 = $⟨ W, V ⟩$ is a Kripke frame, and
+a) 𝔉 = $⟨ W, R ⟩$ is a Kripke frame, and
 
 b) $V$ is a function from the atomic propositions and the possible worlds to the truth values T and F, (i.e. , P being a set of atomic propositions, V: P × W → {T , F } ).
 
