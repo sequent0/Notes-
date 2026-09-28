@@ -47,9 +47,9 @@ Let 𝔐 be a Kripke model as defined previously. Then:
 
 𝔐 , $w$ , $\models$ $F\phi$ iff there is $w'$ such that $wRw'$ and 𝔐, $w'$ $\models$ $\phi$
  
-𝔐 , $w$ , $\models$ $H\phi$ iff for all $w'$ such that $w'Rw$ and 𝔐, $w'$ $\models$ $\phi$ 
+𝔐 , $w$ , $\models$ $H\phi$ iff for all $w'$ such that $w'Rw$ , 𝔐, $w'$ $\models$ $\phi$ 
 
-𝔐 , $w$ , $\models$ $G\phi$ iff for all $w'$ such that $wRw'$ and 𝔐, $w'$ $\models$ $\phi$
+𝔐 , $w$ , $\models$ $G\phi$ iff for all $w'$ such that $wRw'$ , 𝔐, $w'$ $\models$ $\phi$
 
 The point-based temporal models considered here are characterized by the following properties:
 
