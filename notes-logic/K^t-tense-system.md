@@ -1,5 +1,4 @@
----
-*September 2026 | Status in September: Complete*
+*Started: Sep 26, 2026 | Completed: Sep 27, 2026*
 
 A tense temporal language $ℒ_{T_{p}}$ consists in:
 
