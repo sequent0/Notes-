@@ -3,7 +3,7 @@
 I am Sequent, i.e.:
 
 $$
-\Gamma \vdash \Delta
+\Gamma \Rightarrow \Delta
 $$
 
 
