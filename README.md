@@ -10,4 +10,4 @@ $$
 
 
 
-This is a repository of writings, proofs, and summaries in formal philosophy and formal logic.
+A repository of writings, proofs, and summaries in formal philosophy and formal logic.
