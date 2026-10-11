@@ -1,6 +1,6 @@
 # notes
 
-I am Sequent, i.e.:
+I am Sequent, i.e.
 
 $$
 \Gamma \vdash \Delta
